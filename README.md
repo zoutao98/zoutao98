@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @zoutao98
 - 维护着技术博客 **[涛创录](https://www.tcn.work)** —— 记录技术实践与踩坑经验
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on ...
 - 📫 通过 [GitHub](https://github.com/zoutao98) 或博客找我
 
   ![MCU](https://img.shields.io/badge/MCU-单片机%20%26%20RTOS-c0392b)
