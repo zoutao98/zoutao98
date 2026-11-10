@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @zoutao98
-- 👀 I’m interested in ...
+- 维护着技术博客 **[涛创录](https://www.tcn.work)** —— 记录技术实践与踩坑经验
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 通过 [GitHub](https://github.com/zoutao98) 或博客找我
 
-<!---
-zoutao98/zoutao98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ### 📊 GitHub 统计
+
+  <p>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=zoutao98&show_icons=true&theme=default" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoutao98&layout=compact&theme=default" />
+  </p>
